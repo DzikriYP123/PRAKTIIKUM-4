@@ -37,4 +37,8 @@ uts: 35%, uas: 35%)
 6. terakhir menampilkan data mahasiswa ( tugas ,uts, uas hingga nilai akhir)
 7. selesai
 
+# Flowchart
+![flowchart](https://github.com/user-attachments/assets/e4a3a413-7d64-4428-ab5f-b8e52cb5c0c0)
+
+
 
